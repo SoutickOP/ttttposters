@@ -449,7 +449,7 @@ async def show_result(session_id: str):
     if page_info.get("currentPage", 0) > 1:
         page_buttons.append(InlineKeyboardButton("⏪ Prev Page", callback_data=f"page_prev_{session_id}"))
     
-    page_buttons.append(InlineKeyboardButton("🎨 Create Poster", callback_data=f"poster_{session_id}_{media['id']}"))
+    page_buttons.append(InlineKeyboardButton("😉 Create Poster", callback_data=f"poster_{session_id}_{media['id']}"))
     
     page_buttons.append(InlineKeyboardButton("❌ Close", callback_data=f"close_{session_id}"))
     
