@@ -1,2 +1,2 @@
-# animeposterbot
-Anime Poster Maker
+# 😉
+Contributor @dinesh12777 | @SoutickOP
