@@ -1,5 +1,3 @@
-# iykyk
-
 ## Contributors
 
 - [@dinesh12777](https://github.com/dinesh12777)
@@ -7,4 +5,4 @@
 
 ---
 
-Made with ❤️ by the contributors.
+iykyk
